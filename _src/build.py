@@ -74,6 +74,7 @@ TOPICS = {
  'language': ('Language', 'زبان'), 'empire': ('Empires & Kings', 'امپراتوری‌ها و شاهان'), 'archaeology': ('Archaeology', 'باستان‌شناسی'),
  'culture': ('Culture & Myth', 'فرهنگ و اسطوره'), 'maps': ('Maps', 'نقشه‌ها'), 'heritage': ('Heritage', 'میراث'),
  'history': ('History', 'تاریخ'), 'news': ('News', 'اخبار'),
+ 'economy': ('Economy', 'اقتصاد'), 'society': ('Society', 'جامعه'), 'military': ('Military', 'نیروهای مسلح'), 'politics': ('Politics & Diplomacy', 'سیاست و دیپلماسی'),
 }
 MONTHS_EN = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
 MONTHS_FA = ['فروردین','اردیبهشت','خرداد','تیر','مرداد','شهریور','مهر','آبان','آذر','دی','بهمن','اسفند']
@@ -201,7 +202,7 @@ def main():
 <footer class="foot"><div class="wrap">
  <div class="fcols"><div><div class="fbrand"><img src="/assets/logo.svg" alt="" width="60" height="31"><b>{E(t['name'])}</b></div><p>{E(t['tag'])}</p></div>
  <div class="flinks"><div class="fh">{E(t['follow'])}</div>{soc}<a href="{url(lang, 'feed.xml')}">{E(t['rss'])}</a></div>
- <div class="flinks"><div class="fh">{E(t['contact'])}</div><a href="mailto:{E(cfg['email'])}">{E(cfg['email'])}</a><span class="muted">{E(cfg['handle'])}</span></div></div>
+ <div class="flinks"><div class="fh">{E(t['contact'])}</div><a href="mailto:{E(cfg['email'])}">{E(cfg['email'])}</a><span class="muted" dir="ltr">{E(cfg['handle'])}</span></div></div>
  <div class="copy">© {today[:4]} {E(t['name'])} · {E(cfg['author'])}. {E(t['rights'])}</div>
 </div></footer>
 <script src="/assets/site.js" defer></script>
