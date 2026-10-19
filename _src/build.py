@@ -305,14 +305,14 @@ def main():
             takes = ''
             tk = p['posts'].get(lang) or p['posts'].get(other(lang)) or []
             if tk:
-                takes = f'<section class="sec"><h2>{E(t["takes"])}</h2><div class="takes">' + ''.join(f'<div class="take"><p>{para(x)}</p><button class="copybtn" data-copy="{E(x)}" data-done="{E(t["copied"])}">{E(t["copyt"])}</button></div>' for x in tk) + '</div></section>'
+                takes = f'<section class="sec"><h2>{E(t["takes"])}</h2><div class="takes">' + ''.join(f'<div class="take"><p dir="auto">{para(x)}</p><button class="copybtn" data-copy="{E(x)}" data-done="{E(t["copied"])}">{E(t["copyt"])}</button></div>' for x in tk) + '</div></section>'
             sib = [q for q in pieces if q['series'] == p['series'] and q['id'] != p['id']]
             sib.sort(key=lambda q: abs((datetime.date.fromisoformat(q['date']) - datetime.date.fromisoformat(p['date'])).days))
             more = f'<section class="block alt"><div class="wrap"><div class="shead"><h2>{E(t["more"])}</h2></div>{grid(sib[:3], lang)}</div></section>' if sib else ''
             nxt = pieces[i - 1] if i > 0 else None; prv = pieces[i + 1] if i + 1 < len(pieces) else None
             pn = '<nav class="pn">' + (f'<a href="{url(lang, "p/" + prv["id"] + "/")}"><small>{E(t["prev"])}</small>{E(prv["title"][lang])}</a>' if prv else '<span></span>') + (f'<a class="r" href="{url(lang, "p/" + nxt["id"] + "/")}"><small>{E(t["next"])}</small>{E(nxt["title"][lang])}</a>' if nxt else '<span></span>') + '</nav>'
-            capblk = f'<section class="sec"><h2>{E(t["caption"])}</h2><p class="cap">{para(cap)}</p><button class="copybtn" data-copy="{E(cap)}" data-done="{E(t["copied"])}">{E(t["copy"])}</button></section>' if cap else ''
-            altblk = f'<details class="sec altd"><summary>{E(t["alt"])}</summary><p id="alttext">{E(alt)}</p></details>' if pick(p['alt'], lang) else ''
+            capblk = f'<section class="sec"><h2>{E(t["caption"])}</h2><p class="cap" dir="auto">{para(cap)}</p><button class="copybtn" data-copy="{E(cap)}" data-done="{E(t["copied"])}">{E(t["copy"])}</button></section>' if cap else ''
+            altblk = f'<details class="sec altd"><summary>{E(t["alt"])}</summary><p id="alttext" dir="auto">{E(alt)}</p></details>' if pick(p['alt'], lang) else ''
             body = f'''<article class="piece"><div class="wrap">
 <div class="crumb"><a href="{url(lang, '')}">{E(t['home'])}</a> / <a href="{url(lang, 'archive/')}">{E(t['archive'])}</a></div>
 <header class="ph"><div class="chips">{chips}<time datetime="{p['date']}">{E(fdate(p['date'], lang))}</time></div><h1>{E(p['title'][lang])}</h1></header>
