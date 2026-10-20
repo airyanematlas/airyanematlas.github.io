@@ -18,7 +18,7 @@ S = {
  'en': {
   'dir': 'ltr', 'name': 'Airyanem Atlas',
   'tag': 'Indo-European & Iranian history, language and maps. Sources on every graphic.',
-  'home': 'Home', 'archive': 'Archive', 'specials': 'Daily Specials', 'evening': 'Evening Posts', 'pahlavi': 'Pahlavi Era', 'about': 'About',
+  'home': 'Home', 'archive': 'Archive', 'specials': 'Daily Specials', 'evening': 'Evening Posts', 'notes': 'Notes', 'pahlavi': 'Pahlavi Era', 'about': 'About',
   'latest': 'Latest', 'all': 'All', 'series': 'Series', 'topic': 'Topic', 'search': 'Search the archive', 'results': 'infographics',
   'view': 'View infographic', 'download': 'Download high-res JPG', 'copy': 'Copy caption', 'copyt': 'Copy text', 'copied': 'Copied', 'share': 'Share on X',
   'alt': 'Image description', 'takes': 'Short takes', 'caption': 'Caption', 'infolang': 'Infographic language',
@@ -26,6 +26,7 @@ S = {
   'hero_kicker': 'Latest infographic', 'hero_sub': 'From the steppe to Persepolis',
   'sec_specials': 'Daily Special', 'sec_specials_d': 'A new infographic built from what happened on this day in history, or from the news.',
   'sec_evening': 'Evening Posts', 'sec_evening_d': 'A deep fact and a fun fact, every evening.',
+  'sec_notes_d': 'Short history notes with photos, grouped by theme.', 'photo': 'Photo', 'on_x_post': 'Photos as posted on X',
   'sec_pahlavi': 'Pahlavi Era', 'sec_pahlavi_d': 'A dedicated collection on the Pahlavi era, updated regularly.',
   'sec_topics': 'Browse by topic', 'see_all': 'See all', 'coming': 'The Pahlavi Era collection is being prepared. New infographics will appear here.',
   'empty': 'Nothing here yet.', 'fact_a': 'Deep fact', 'fact_b': 'Fun fact', 'source': 'Source', 'by': 'by',
@@ -43,7 +44,7 @@ S = {
  'fa': {
   'dir': 'rtl', 'name': 'اطلس آیریانم',
   'tag': 'تاریخ، زبان و نقشهٔ هندواروپایی و ایرانی. منبع روی هر گرافیک.',
-  'home': 'خانه', 'archive': 'بایگانی', 'specials': 'ویژهٔ روز', 'evening': 'پست‌های شامگاهی', 'pahlavi': 'دورهٔ پهلوی', 'about': 'دربارهٔ ما',
+  'home': 'خانه', 'archive': 'بایگانی', 'specials': 'ویژهٔ روز', 'evening': 'پست‌های شامگاهی', 'notes': 'یادداشت‌ها', 'pahlavi': 'دورهٔ پهلوی', 'about': 'دربارهٔ ما',
   'latest': 'تازه‌ترین‌ها', 'all': 'همه', 'series': 'مجموعه', 'topic': 'موضوع', 'search': 'جستجو در بایگانی', 'results': 'اینفوگرافیک',
   'view': 'دیدن اینفوگرافیک', 'download': 'دریافت JPG با کیفیت بالا', 'copy': 'رونوشت کپشن', 'copyt': 'رونوشت متن', 'copied': 'رونوشت شد', 'share': 'اشتراک در ایکس',
   'alt': 'توضیح تصویر', 'takes': 'نکته‌های کوتاه', 'caption': 'کپشن', 'infolang': 'زبان اینفوگرافیک',
@@ -51,6 +52,7 @@ S = {
   'hero_kicker': 'تازه‌ترین اینفوگرافیک', 'hero_sub': 'از استپ تا تخت جمشید',
   'sec_specials': 'ویژهٔ روز', 'sec_specials_d': 'اینفوگرافیکی تازه، برگرفته از رویدادهای چنین روزی در تاریخ یا از اخبار روز.',
   'sec_evening': 'پست‌های شامگاهی', 'sec_evening_d': 'هر شب یک نکتهٔ ژرف و یک نکتهٔ جالب.',
+  'sec_notes_d': 'یادداشت‌های کوتاه تاریخی همراه با عکس، دسته‌بندی‌شده بر پایهٔ موضوع.', 'photo': 'عکس', 'on_x_post': 'عکس‌ها مطابق پست ایکس',
   'sec_pahlavi': 'دورهٔ پهلوی', 'sec_pahlavi_d': 'مجموعه‌ای ویژه دربارهٔ دورهٔ پهلوی که پیوسته به‌روز می‌شود.',
   'sec_topics': 'گشت‌وگذار بر پایهٔ موضوع', 'see_all': 'دیدن همه', 'coming': 'مجموعهٔ دورهٔ پهلوی در دست آماده‌سازی است. اینفوگرافیک‌های تازه همین‌جا خواهند آمد.',
   'empty': 'هنوز چیزی اینجا نیست.', 'fact_a': 'نکتهٔ ژرف', 'fact_b': 'نکتهٔ جالب', 'source': 'منبع', 'by': 'از',
@@ -70,6 +72,7 @@ SERIES = {  # id: (en, fa)
  'special': ('Daily Special', 'ویژهٔ روز'), 'pahlavi': ('Pahlavi Era', 'دورهٔ پهلوی'),
  'w3': ('Week 3', 'هفتهٔ ۳'), 'w2': ('Week 2', 'هفتهٔ ۲'), 'w1': ('Week 1', 'هفتهٔ ۱'), 'launch': ('Launch', 'آغاز'),
 }
+NOTE_TOPICS = {'achaemenid': ('Achaemenid Persia', 'ایران هخامنشی'), 'science': ('Water, science and technology', 'آب، دانش و فناوری'), 'hittites': ('Hittites and Indo-European links', 'هیتی‌ها و پیوندهای هندواروپایی'), 'neighbours': ('Ancient neighbours of Persia', 'همسایگان باستانی ایران')}
 TOPICS = {
  'language': ('Language', 'زبان'), 'empire': ('Empires & Kings', 'امپراتوری‌ها و شاهان'), 'archaeology': ('Archaeology', 'باستان‌شناسی'),
  'culture': ('Culture & Myth', 'فرهنگ و اسطوره'), 'maps': ('Maps', 'نقشه‌ها'), 'heritage': ('Heritage', 'میراث'),
@@ -131,6 +134,8 @@ def main():
     pieces.sort(key=lambda p: (p['date'], p['id']), reverse=True)
     evening = [e for e in load_json('evening.json', []) if e['date'] <= today]
     evening.sort(key=lambda e: e['date'], reverse=True)
+    notes = [n for n in load_json('notes.json', []) if n['date'] <= today]
+    notes.sort(key=lambda n: (n['date'], n['id']), reverse=True)
     byid = {p['id']: p for p in pieces}
 
     if os.path.isdir(OUT): shutil.rmtree(OUT)
@@ -166,7 +171,7 @@ def main():
         t = S[lang]; o = other(lang)
         full_title = title if title == t['name'] else f"{title} · {t['name']}"
         desc = desc or t['tag']
-        nav = [('', t['home']), ('archive/', t['archive']), ('specials/', t['specials']), ('evening/', t['evening']), ('pahlavi/', t['pahlavi']), ('about/', t['about'])]
+        nav = [('', t['home']), ('archive/', t['archive']), ('specials/', t['specials']), ('evening/', t['evening']), ('notes/', t['notes']), ('pahlavi/', t['pahlavi']), ('about/', t['about'])]
         navh = ''.join(f'<a href="{url(lang, h)}"{" aria-current=page" if h == path.split("#")[0] and h != "" or (h == "" and path == "") else ""}>{E(l)}</a>' for h, l in nav)
         soc = ''
         for k, lbl in (('x', 'X'), ('instagram', 'Instagram'), ('patreon', 'Patreon')):
@@ -221,6 +226,17 @@ def main():
     def grid(ps, lang): return '<div class="grid">' + ''.join(card(p, lang) for p in ps) + '</div>' if ps else f'<p class="muted">{E(S[lang]["empty"])}</p>'
     def head(lang, title, sub=''):
         return f'<section class="phead"><div class="wrap"><h1>{E(title)}</h1>{f"<p>{E(sub)}</p>" if sub else ""}</div></section>'
+    def photos_html(ph, lang):
+        if not ph: return ''
+        figs = ''
+        for x in ph:
+            u = f"https://pbs.twimg.com/media/{x['u']}?format=jpg&name=medium"
+            cap = f'<figcaption>{E(S[lang]["photo"])}: {E(x["c"])}</figcaption>' if x.get('c') else ''
+            figs += f'<figure><a href="{u}" target="_blank" rel="noopener"><img src="{u}" alt="" loading="lazy" referrerpolicy="no-referrer"></a>{cap}</figure>'
+        return f'<div class="ephotos n{min(len(ph), 4)}">{figs}</div>'
+    def note_card(n, lang):
+        txt = (n.get(lang) or n.get(other(lang)) or '').strip()
+        return f'<article class="note"><div class="ndate"><time datetime="{n["date"]}">{E(fdate(n["date"], lang))}</time></div><p dir="auto">{para(txt)}</p>{photos_html(n.get("photos"), lang)}<button class="copybtn" data-copy="{E(txt)}" data-done="{E(S[lang]["copied"])}">{E(S[lang]["copyt"])}</button></article>'
     def evening_card(e, lang):
         t = S[lang]
         def blk(k, lbl):
@@ -228,7 +244,7 @@ def main():
             if not txt: return ''
             body_txt = txt.strip()
             src = f'<div class="src">{E(t["source"])}: {E(b["source"])}</div>' if b.get('source') else ''
-            return f'<div class="efact"><div class="elabel">{E(lbl)}</div><p>{para(body_txt)}</p>{src}<button class="copybtn" data-copy="{E(body_txt)}" data-done="{E(t["copied"])}">{E(t["copyt"])}</button></div>'
+            return f'<div class="efact"><div class="elabel">{E(lbl)}</div><p>{para(body_txt)}</p>{src}<button class="copybtn" data-copy="{E(body_txt)}" data-done="{E(t["copied"])}">{E(t["copyt"])}</button>{photos_html(e.get("photos", {}).get(k), lang)}</div>'
         topic = e.get('topic', '')
         return f'<article class="ecard"><div class="ehead"><time datetime="{e["date"]}">{E(fdate(e["date"], lang))}</time></div>{blk("A", t["fact_a"])}{blk("B", t["fact_b"])}</article>'
 
@@ -276,6 +292,12 @@ def main():
         write(url(lang, 'pahlavi/').lstrip('/') + 'index.html', layout(lang, 'pahlavi/', t['pahlavi'], head(lang, t['pahlavi'], t['sec_pahlavi_d']) + f'<section class="block"><div class="wrap">' + (grid(ph, lang) if ph else f'<div class="soon big">{E(t["coming"])}</div>') + '</div></section>'))
         # ---- evening
         write(url(lang, 'evening/').lstrip('/') + 'index.html', layout(lang, 'evening/', t['evening'], head(lang, t['evening'], t['sec_evening_d']) + '<section class="block"><div class="wrap evlist">' + (''.join(evening_card(e, lang) for e in evening) or f'<p class="muted">{E(t["empty"])}</p>') + '</div></section>'))
+        # ---- notes
+        groups = ''
+        for key, nm in NOTE_TOPICS.items():
+            ns = [n for n in notes if n['topic'] == key]
+            if ns: groups += f'<section class="block"><div class="wrap"><div class="shead"><h2>{E(tr(lang, nm))}</h2></div><div class="notelist">' + ''.join(note_card(n, lang) for n in ns) + '</div></div></section>'
+        write(url(lang, 'notes/').lstrip('/') + 'index.html', layout(lang, 'notes/', t['notes'], head(lang, t['notes'], t['sec_notes_d']) + (groups or f'<section class="block"><div class="wrap"><p class="muted">{E(t["empty"])}</p></div></section>')))
         # ---- about
         ab = ''.join(f'<p>{E(x)}</p>' for x in t['about_p']) + f'<h2>{E(t["about_h2"][0])}</h2><ul>' + ''.join(f'<li>{E(x)}</li>' for x in t['about_list']) + f'</ul><h2>{E(t["about_h2"][1])}</h2><div class="btns">'
         for k, lbl in (('x', 'X'), ('instagram', 'Instagram'), ('patreon', 'Patreon')):
@@ -334,7 +356,7 @@ def main():
     # ---------------------------------------------------------- sitemap, robots, 404
     urls = []
     for lang in ('en', 'fa'):
-        for pth in ['', 'archive/', 'specials/', 'evening/', 'pahlavi/', 'about/'] + [f"p/{p['id']}/" for p in pieces]:
+        for pth in ['', 'archive/', 'specials/', 'evening/', 'notes/', 'pahlavi/', 'about/'] + [f"p/{p['id']}/" for p in pieces]:
             urls.append(SITE + url(lang, pth))
     write('sitemap.xml', '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + ''.join(f'<url><loc>{u}</loc></url>' for u in urls) + '</urlset>')
     write('robots.txt', f'User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n')

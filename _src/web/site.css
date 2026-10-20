@@ -109,3 +109,9 @@ html[lang=fa] .fh{letter-spacing:0;font-family:var(--fa);font-size:13px}
 @media(max-width:900px){.herogrid,.cols,.tri,.fcols{grid-template-columns:1fr}.hero{padding:30px 0 40px}.nav{display:none;position:absolute;inset-inline:0;top:64px;background:var(--ink);flex-direction:column;padding:12px 20px 18px}
 .nav.open{display:flex}.burger{display:block}.bar{gap:10px}.tools{margin-inline-start:auto}.pn a{max-width:48%;font-size:17px}}
 @media(max-width:520px){.grid{grid-template-columns:1fr}.shead h2{font-size:28px}.phead h1{font-size:36px}}
+
+.ephotos{display:grid;gap:8px;margin-top:12px}.ephotos.n1{grid-template-columns:1fr}.ephotos.n2{grid-template-columns:1fr 1fr}.ephotos.n3{grid-template-columns:repeat(3,1fr)}.ephotos.n4{grid-template-columns:repeat(2,1fr)}
+.ephotos figure{margin:0}.ephotos img{width:100%;height:100%;max-height:260px;object-fit:cover;border-radius:10px;display:block;background:var(--line)}.ephotos figcaption{font-size:12px;color:var(--mut);margin-top:4px}
+.notelist{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
+.note{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px}.note .ndate{font-size:12.5px;color:var(--mut);margin-bottom:6px}.note p{margin:0 0 8px}
+@media(max-width:560px){.ephotos.n3{grid-template-columns:1fr 1fr}}
