@@ -70,7 +70,7 @@ S = {
 }
 SERIES = {  # id: (en, fa)
  'special': ('Daily Special', 'ویژهٔ روز'), 'pahlavi': ('Pahlavi Era', 'دورهٔ پهلوی'),
- 'w3': ('Week 3', 'هفتهٔ ۳'), 'w2': ('Week 2', 'هفتهٔ ۲'), 'w1': ('Week 1', 'هفتهٔ ۱'), 'launch': ('Launch', 'آغاز'),
+ 'w4': ('Week 4', 'هفتهٔ ۴'), 'w3': ('Week 3', 'هفتهٔ ۳'), 'w2': ('Week 2', 'هفتهٔ ۲'), 'w1': ('Week 1', 'هفتهٔ ۱'), 'launch': ('Launch', 'آغاز'),
 }
 NOTE_TOPICS = {'achaemenid': ('Achaemenid Persia', 'ایران هخامنشی'), 'science': ('Water, science and technology', 'آب، دانش و فناوری'), 'hittites': ('Hittites and Indo-European links', 'هیتی‌ها و پیوندهای هندواروپایی'), 'neighbours': ('Ancient neighbours of Persia', 'همسایگان باستانی ایران')}
 TOPICS = {
