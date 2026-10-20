@@ -33,6 +33,8 @@ def make_images(src, outdir, stem):
     return {'w': im.width, 'h': im.height}
 
 def add_piece(meta, en_imgs, fa_imgs):
+    # Site policy (19 Oct 2026): no politically sensitive infographics about current events. Historical political pieces are fine.
+    if meta.get('current_politics'): raise SystemExit('Blocked by site policy: current-events political content is not published on the website')
     pid = meta['id']; out = os.path.join(IMG, pid)
     if os.path.isdir(out): shutil.rmtree(out)
     meta['images'] = {'en': [], 'fa': []}
