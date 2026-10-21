@@ -779,6 +779,46 @@
   }
  },
  {
+  "id": "d08-board-game-burnt-city",
+  "series": "special",
+  "date": "2026-10-21",
+  "topics": [
+   "archaeology",
+   "history",
+   "heritage"
+  ],
+  "title": {
+   "en": "A Board Game from the Burnt City",
+   "fa": "بازی تخته‌ای از شهر سوخته"
+  },
+  "caption": {
+   "en": "A board game from the Burnt City. From Grave 731 at Shahr-e Sukhteh came a carved board with 20 circular spaces, 27 pieces and four dice (c. 2600–2400 BCE), kin to the Royal Game of Ur. In 2026 the dig found a second, different game, about 4,600 years old. #Iran #Archaeology",
+   "fa": "بازی تخته‌ای از شهر سوخته. از گور ۷۳۱ شهر سوخته تخته‌ای کنده‌کاری‌شده با ۲۰ خانهٔ گرد، ۲۷ مهره و چهار تاس بیرون آمد (حدود ۲۶۰۰ تا ۲۴۰۰ پ.م.)، خویشاوند بازی سلطنتی اور. در تابستان ۱۴۰۵ بازی دومی، متفاوت و نزدیک ۴۶۰۰ ساله، یافت شد. #ایران #باستان‌شناسی"
+  },
+  "alt": {
+   "en": "Infographic titled A Board Game from the Burnt City. A drawing of a wooden board shows 20 round spaces with a green snake winding between them, with trays of 10 gold runners, 10 teal runners, star and cone pieces and four dice sticks. Text notes Grave 731, found in 1977, and the lost rules. A panel on the 2026 season notes a different board game about 4,600 years old and an engraved bone comb. Cards compare Twenty Squares boards at Shahr-e Sukhteh, Ur, Jiroft and Egypt. A diagram shows trade routes to the Indus, Gulf and Central Asia. Tiles read 20 spaces, 27 pieces, 4 dice, about 4,600 years.",
+   "fa": "اینفوگرافیک «بازی تخته‌ای از شهر سوخته». طرحی از تخته‌ای چوبی با ۲۰ خانهٔ گرد و ماری سبز که میان آن‌ها می‌پیچد؛ سینی‌هایی با ۱۰ دونندهٔ زرد، ۱۰ دونندهٔ فیروزه‌ای، مهره‌های ستاره‌ای و مخروطی و چهار تاس. متن‌ها از گور ۷۳۱ که در سال ۱۳۵۶ یافت شد و قواعد گم‌شده می‌گویند. کادری دربارهٔ فصل ۱۴۰۵ از بازی تخته‌ای متفاوت نزدیک ۴۶۰۰ ساله و شانهٔ استخوانی حکاکی‌شده خبر می‌دهد. کارت‌ها تخته‌های بازی بیست خانه را در شهر سوخته، اور، جیرفت و مصر مقایسه می‌کنند. نموداری راه‌های بازرگانی به سند، خلیج فارس و آسیای میانه را نشان می‌دهد. کاشی‌ها: ۲۰ خانه، ۲۷ مهره، ۴ تاس، حدود ۴۶۰۰ سال."
+  },
+  "posts": {
+   "en": [
+    "Twenty squares, four dice, no rulebook. The Burnt City board was buried about 4,500 years ago and its rules are lost. In 2024 researchers tested thousands of rule sets by computer, then 50 players, to propose plausible ones. How would you play it?",
+    "One game, many homes: the Game of Twenty Squares was played at Ur in Iraq about 2600 BCE, at Shahr-e Sukhteh in Iran, at Jiroft on a stone snake board, and in Egypt in Dynasties 17 to 20. Shahr-e Sukhteh holds Iran’s earliest known board for the game."
+   ],
+   "fa": [
+    "بیست خانه، چهار تاس، بدون کتاب قواعد. تختهٔ شهر سوخته حدود ۴۵۰۰ سال پیش دفن شد و قواعدش گم است. در سال ۱۴۰۲ پژوهشگران هزاران مجموعه‌قاعده را با رایانه و سپس ۵۰ بازیکن آزمودند تا قواعدی محتمل پیشنهاد کنند. شما چطور بازی می‌کردید؟",
+    "یک بازی، خانه‌های بسیار: بازی بیست خانه حدود ۲۶۰۰ پ.م. در اور عراق، در شهر سوخته، در جیرفت بر تخته‌ای سنگی به شکل مار و در سلسله‌های ۱۷ تا ۲۰ مصر بازی می‌شد. شهر سوخته کهن‌ترین تختهٔ شناخته‌شدهٔ این بازی در ایران را دارد."
+   ]
+  },
+  "images": {
+   "en": [
+    "en-1"
+   ],
+   "fa": [
+    "fa-1"
+   ]
+  }
+ },
+ {
   "id": "ph-w1-4",
   "series": "pahlavi",
   "date": "2026-10-21",
