@@ -936,6 +936,46 @@
   }
  },
  {
+  "id": "d10-jiroft-halil-rud",
+  "series": "special",
+  "date": "2026-10-22",
+  "topics": [
+   "archaeology",
+   "heritage",
+   "history"
+  ],
+  "title": {
+   "en": "Jiroft and the Halil Rud",
+   "fa": "جیرفت و هلیل‌رود"
+  },
+  "caption": {
+   "en": "Jiroft and the Halil Rud: a Bronze Age civilisation in southeastern Iran. Konar Sandal’s two mounds, 150+ seal impressions and carved chlorite vessels were uncovered by the excavations of Yousef Majidzadeh (d. 19 Oct 2026). In memory. #Iran #Archaeology #Jiroft",
+   "fa": "جیرفت و هلیل‌رود: تمدن عصر مفرغ در جنوب‌خاوری ایران. دو تپهٔ کنارصندل، بیش از ۱۵۰ اثر مهر و ظرف‌های کلریتی کنده‌کاری‌شده در کاوش‌های یوسف مجیدزاده آشکار شد. به یاد او. #ایران #باستان‌شناسی #جیرفت"
+  },
+  "alt": {
+   "en": "Infographic titled Jiroft and the Halil Rud, in navy, gold and sage green. A map of southeastern Iran marks Konar Sandal near Jiroft with a glowing gold dot, the Halil Rud flowing southeast to the Jazmurian basin, and nearby Bronze Age sites: Kerman, Shahdad, Tepe Yahya, Shahr-e Sukhteh and Bampur. Dashed arrows point west to Elam and Mesopotamia, east to the Indus Valley and north-east to Central Asia. A tribute to archaeologist Yousef Majidzadeh, who died on 19 October 2026, sits beside a drawing of Konar Sandal’s two mounds, 21 m and 13 m high, a timeline, and a bottom strip of six finds: carved chlorite vessels, seal impressions, inscribed bricks, a vase, a statuette and a citadel.",
+   "fa": "اینفوگرافیک «جیرفت و هلیل‌رود» با رنگ‌های سرمه‌ای، زرین و سبز مریم‌گلی. نقشهٔ جنوب‌خاوری ایران کنارصندل نزدیک جیرفت را با نقطه‌ای زرین و درخشان نشان می‌دهد، هلیل‌رود را که به سوی جنوب‌خاور تا حوضهٔ جازموریان می‌رود، و جایگاه‌های عصر مفرغ پیرامون: کرمان، شهداد، تپه یحیی، شهر سوخته و بمپور. پیکان‌های خط‌چین به غرب (عیلام و بین‌النهرین)، شرق (دره سند) و شمال‌خاور (آسیای مرکزی) می‌روند. یادبود باستان‌شناس یوسف مجیدزاده که ۲۷ مهر ۱۴۰۵ درگذشت، کنار طرح دو تپهٔ کنارصندل با بلندای ۲۱ و ۱۳ متر، یک خط زمان و نواری از شش یافته است: ظرف کلریتی، اثر مهر، آجر نوشته‌دار، کوزه، پیکرک و ارگ."
+  },
+  "posts": {
+   "en": [
+    "In 2001 looting near Jiroft exposed graves and carved chlorite vessels. Then the dig began at Konar Sandal, where two mounds, 21 m and 13 m high, hold a walled citadel and niched mudbrick platforms. Yousef Majidzadeh led the excavations. Thank you for the work.",
+    "The Halil Rud runs about 400 km from the Zagros to the Jazmurian basin. Along it, Konar Sandal flourished c. 2500–2200 BCE, between Elam and the Indus. Which Bronze Age site should we map next: Jiroft, Shahr-e Sukhteh or Tepe Yahya?"
+   ],
+   "fa": [
+    "در سال ۱۳۸۰ غارت در نزدیکی جیرفت گورها و ظرف‌های کلریتی کنده‌کاری‌شده را آشکار کرد. سپس کاوش در کنارصندل آغاز شد، جایی که دو تپه با بلندای ۲۱ و ۱۳ متر ارگی باروداردار و سکوهای خشتی طاقچه‌دار را در خود دارند. یوسف مجیدزاده کاوش‌ها را رهبری کرد.",
+    "هلیل‌رود نزدیک ۴۰۰ کیلومتر از زاگرس تا حوضهٔ جازموریان می‌رود. در کنار آن، کنارصندل حدود ۲۵۰۰ تا ۲۲۰۰ پ.م. میان عیلام و سند شکوفا بود. کدام جایگاه عصر مفرغ را بعد نقشه کنیم: جیرفت، شهر سوخته یا تپه یحیی؟"
+   ]
+  },
+  "images": {
+   "en": [
+    "en-1"
+   ],
+   "fa": [
+    "fa-1"
+   ]
+  }
+ },
+ {
   "id": "ph-w1-5",
   "series": "pahlavi",
   "date": "2026-10-22",
