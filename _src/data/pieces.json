@@ -1130,6 +1130,46 @@
   }
  },
  {
+  "id": "d11-qareh-tepe-before-the-medes",
+  "series": "special",
+  "date": "2026-10-24",
+  "topics": [
+   "archaeology",
+   "history",
+   "society"
+  ],
+  "title": {
+   "en": "Life Before the Medes at Qareh Tepe",
+   "fa": "زندگی پیش از ماد در قره‌تپه"
+  },
+  "caption": {
+   "en": "Life before the Medes: a five-year Iran–Poland study at Qareh Tepe on the Qazvin Plain (c. 1100–750 BC) describes a largely settled farming-and-herding community, not mainly nomads. About 80% of 60 people tested grew up on the plain. #Iran #Archaeology #IronAge",
+   "fa": "زندگی پیش از ماد: پژوهش پنج‌سالهٔ ایران و لهستان در قره‌تپهٔ دشت قزوین (حدود ۱۱۰۰ تا ۷۵۰ پیش از میلاد) از جامعه‌ای عمدتاً یکجانشین از کشاورزان و دامداران خبر می‌دهد، نه بیشتر کوچ‌نشین. حدود ۸۰ درصد از ۶۰ نفرِ آزمایش‌شده در همین دشت بزرگ شده‌اند. #ایران #باستان‌شناسی #عصر_آهن"
+  },
+  "alt": {
+   "en": "Infographic titled Life Before the Medes, at Qareh Tepe. Left, a grid of 60 dots shows where people tested at the Iron Age cemetery grew up, by the strontium in their tooth enamel: 48 teal dots, about 80%, grew up on the plain itself; 9 gold dots, about 15%, came from the wider region; 3 terracotta dots, about 5%, came from beyond the plain. Below, drawings of a wheat ear and sheep with the heading Farmers and herders. Right, three cards: a largely settled farming-and-herding community, not mainly nomads; the Tehran–Warsaw team of Dehpahlavan and Sołtysiak over five years; the Qazvin Plain in north-west Iran. A bar marks Iron Age II–III, about 1,100 to 750 BC, followed by a dashed box reading then the Medes. Takeaway: a settled community before the Medes.",
+   "fa": "اینفوگرافیک «زندگی پیش از ماد در قره‌تپه». در سمت چپ، شبکه‌ای از ۶۰ نقطه نشان می‌دهد افراد آزمایش‌شده در گورستان عصر آهن، بر پایهٔ استرانسیم مینای دندان، کجا بزرگ شده‌اند: ۴۸ نقطهٔ فیروزه‌ای، حدود ۸۰ درصد، در همین دشت؛ ۹ نقطهٔ زرد، حدود ۱۵ درصد، از منطقهٔ پیرامون؛ ۳ نقطهٔ سفالی، حدود ۵ درصد، از بیرون دشت. زیر آن، نقش خوشهٔ گندم و گوسفند با عنوان «کشاورز و دامدار». در سمت راست سه کارت: جامعه‌ای عمدتاً یکجانشین از کشاورزان و دامداران، نه بیشتر کوچ‌نشین؛ گروه تهران و ورشو با دهپهلوان و سولتیشیاک در پنج سال؛ دشت قزوین در شمال‌غرب ایران. نواری عصر آهن ۲ و ۳، حدود ۱۱۰۰ تا ۷۵۰ پیش از میلاد، را نشان می‌دهد و جعبه‌ای خط‌چین «سپس ماد‌ها» دارد. نتیجه: جامعه‌ای یکجانشین پیش از ماد."
+  },
+  "posts": {
+   "en": [
+    "Tooth-enamel strontium shows where people spent their childhood. At Qareh Tepe, of 60 individuals tested, about 80% grew up on the Qazvin Plain, about 15% came from the wider region and about 5% from farther away. #Iran #Archaeology",
+    "A five-year Iran–Poland project (Dehpahlavan of Tehran, Sołtysiak of Warsaw) studied life on the Qazvin Plain before the Medes. What would you most like to know about a farming village almost 3,000 years ago? #Iran #IronAge"
+   ],
+   "fa": [
+    "استرانسیمِ مینای دندان نشان می‌دهد آدم‌ها کودکی را کجا گذرانده‌اند. در قره‌تپه، از ۶۰ نفرِ آزمایش‌شده حدود ۸۰ درصد در دشت قزوین بزرگ شده‌اند، حدود ۱۵ درصد از منطقهٔ پیرامون آمده‌اند و حدود ۵ درصد از جایی دورتر. #ایران #باستان‌شناسی",
+    "پروژهٔ پنج‌سالهٔ ایران و لهستان (دهپهلوان از تهران، سولتیشیاک از ورشو) زندگی در دشت قزوین پیش از ماد را بررسی کرد. دربارهٔ یک روستای کشاورزی نزدیک به ۳۰۰۰ سال پیش بیش از همه چه می‌خواهید بدانید؟ #ایران #عصر_آهن"
+   ]
+  },
+  "images": {
+   "en": [
+    "en-1"
+   ],
+   "fa": [
+    "fa-1"
+   ]
+  }
+ },
+ {
   "id": "ph-w1-7",
   "series": "pahlavi",
   "date": "2026-10-24",
@@ -1195,6 +1235,46 @@
    "fa": [
     "خط میخی فارسی باستان فقط حدود ۳۷ نشانه دارد، بسیار کمتر از خط میخی بابلی. پژوهشگران معمولاً می‌پندارند برای کتیبه‌های شاهی داریوش ساخته شد و بیستون ویترین آن است.",
     "رالینسن برای رونویسی این متن از صخره‌ای آهکی حدود ۱۰۰ متر بالاتر از جاده بالا رفت. شدیدترین کاری که برای یک پژوهش کرده‌اید چیست؟"
+   ]
+  },
+  "images": {
+   "en": [
+    "en-1"
+   ],
+   "fa": [
+    "fa-1"
+   ]
+  }
+ },
+ {
+  "id": "d12-khusro-ii-bust-taq-e-bostan",
+  "series": "special",
+  "date": "2026-10-25",
+  "topics": [
+   "heritage",
+   "history",
+   "culture"
+  ],
+  "title": {
+   "en": "The Statue That Fell Into the Spring",
+   "fa": "مجسمه‌ای که به چشمه افتاد"
+  },
+  "caption": {
+   "en": "Khusro II’s statue at Taq-e Bostan, one of the few freestanding Sasanian sculptures to survive, fell into the spring. Mis’ar bin al-Muhalhil (10th c.), Ker Porter (1818), Flandin (1840) and Herzfeld recorded it. Now in the Stone Museum; re-erection is proposed. #Iran #Sasanian",
+   "fa": "مجسمهٔ خسرو دوم در طاق‌بستان، از معدود پیکره‌های مستقلِ بازمانده از ساسانیان، به چشمه افتاد. مسعر بن مهلهل (سدهٔ ۱۰ میلادی)، کر پورتر (۱۸۱۸)، فلاندن (۱۸۴۰) و هرتسفلد آن را ثبت کردند. اکنون در سنگ‌موزه است و پژوهشگران برپاکردن دوبارهٔ آن را پیشنهاد می‌کنند. #ایران #ساسانی"
+  },
+  "alt": {
+   "en": "Infographic titled The Statue That Fell Into the Spring, on a dark background. Left, a schematic with three numbered stops: 1, the plateau above a rock face with an arch, where a dashed outline of the standing figure marks the proposed re-erection; 2, the spring, where the torso lies in water; 3, the Stone Museum, where the torso stands in a frame today. A dotted arrow runs from the plateau to the spring and on to the museum. Right, six rows: the 10th century, Mis’ar bin al-Muhalhil first records the statue fallen into the spring; 1818, Ker Porter records carved feet on the plateau; 1840, Flandin documents it lying in the water; 20th century, Herzfeld photographs it as Statue in round, Khusro II; today, a worn torso in the Taq-e Bostan Stone Museum; proposal, restore it and re-erect it above the arches. Takeaway: standing again?",
+   "fa": "اینفوگرافیک «مجسمه‌ای که به چشمه افتاد» روی زمینهٔ تیره. در سمت راست، طرحی با سه ایستگاه شماره‌دار: ۱، سکوی بالای صخره‌ای با طاق، جایی که طرح خط‌چین پیکرهٔ ایستاده برپاکردن دوبارهٔ پیشنهادی را نشان می‌دهد؛ ۲، چشمه، جایی که تنه در آب افتاده است؛ ۳، سنگ‌موزه، جایی که تنه امروز در قابی ایستاده است. پیکانی نقطه‌چین از سکو به چشمه و سپس به موزه می‌رود. در سمت چپ شش ردیف: سدهٔ ۱۰ میلادی، مسعر بن مهلهل نخستین‌بار مجسمه را پس از افتادن در چشمه ثبت می‌کند؛ ۱۸۱۸، کر پورتر پاهای کنده‌کاری‌شده را بر سکو ثبت می‌کند؛ ۱۸۴۰، فلاندن آن را خفته در آب ثبت می‌کند؛ سدهٔ ۲۰ میلادی، هرتسفلد از آن عکس می‌گیرد و آن را «پیکرهٔ مستقل، خسرو دوم» ثبت می‌کند؛ امروز، تنه‌ای ساییده در سنگ‌موزهٔ طاق‌بستان؛ پیشنهاد، ترمیم و برپاکردن دوباره بالای طاق‌ها. نتیجه: دوباره ایستاده؟"
+  },
+  "posts": {
+   "en": [
+    "In 1818 Sir Robert Ker Porter recorded carved feet on the plateau above the arches of Taq-e Bostan. Researchers think the statue stood there before it likely fell into the spring below. #TaqeBostan #Sasanian",
+    "Would you re-erect a torso that fell into a spring over a thousand years ago? Researchers propose restoring Khusro II’s statue and returning it to the plateau above the arches at Taq-e Bostan. What do you think? #Iran #Sasanian"
+   ],
+   "fa": [
+    "در سال ۱۸۱۸ سر رابرت کر پورتر پاهای کنده‌کاری‌شده را بر سکوی بالای طاق‌های طاق‌بستان ثبت کرد. پژوهشگران می‌پندارند مجسمه پیش از آنکه به چشمهٔ پایین بیفتد، همان‌جا ایستاده بود. #طاق_بستان #ساسانی",
+    "آیا تنه‌ای را که بیش از هزار سال پیش به چشمه افتاده دوباره برپا می‌کنید؟ پژوهشگران پیشنهاد می‌کنند مجسمهٔ خسرو دوم ترمیم شود و به سکوی بالای طاق‌های طاق‌بستان بازگردد. نظر شما چیست؟ #ایران #ساسانی"
    ]
   },
   "images": {
