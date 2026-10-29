@@ -1559,6 +1559,47 @@
   }
  },
  {
+  "id": "d14-ulugh-beg-astronomer-king",
+  "series": "special",
+  "date": "2026-10-28",
+  "topics": [
+   "history",
+   "culture"
+  ],
+  "title": {
+   "en": "The Astronomer-King of Samarkand: Ulugh Beg",
+   "fa": "شاهِ ستاره‌شناسِ سمرقند: الغ‌بیگ"
+  },
+  "caption": {
+   "en": "Ulugh Beg, the astronomer-king of Samarkand (born 22 March 1394, killed 27 October 1449). His observatory, founded in 1420, held the Fakhri sextant: an arc of about 40 m radius set in a trench half a metre wide. His Persian Zīj-i Sultānī lists 1,018 stars, and Thomas Hyde printed it at Oxford in 1665, in Persian and Latin. #UlughBeg #Samarkand #Timurid #Astronomy",
+   "fa": "الغ‌بیگ، شاهِ ستاره‌شناسِ سمرقند (زادهٔ ۲۲ مارس ۱۳۹۴، کشته‌شده در ۲۷ اکتبر ۱۴۴۹). رصدخانهٔ او که در ۱۴۲۰ بنیاد شد، سدس فخری را داشت: کمانی به شعاع حدود ۴۰ متر در شیاری به پهنای نیم متر. زیج سلطانی او به فارسی ۱۰۱۸ ستاره را فهرست می‌کند و توماس هاید آن را در ۱۶۶۵ در آکسفورد، به فارسی و لاتین، چاپ کرد. #الغ_بیگ #سمرقند #تیموریان #ستاره_شناسی"
+  },
+  "alt": {
+   "en": "Dark blue night-sky infographic titled The Astronomer-King of Samarkand with a gold crown. A cutaway shows a sandstone observatory with teal tile bands. A sunbeam enters a small opening on the roof and runs down to a graduated arc sunk in a trench in the ground, labelled the Fakhri sextant, about 40 m radius. A box reads 1,018 stars catalogued, about 700 newly observed. A timeline lists 1417 madrasa, 1420 observatory, c. 1437 catalogue, 1449 the king killed, 1500s buried, 1908 rediscovered. A strip shows Samarkand c. 1437 to Oxford 1665, about 5,300 km, where Hyde printed the Persian catalogue. Bar: 1,018 stars.",
+   "fa": "اینفوگرافیک آسمان شب با عنوان «شاهِ ستاره‌شناسِ سمرقند» و تاجی زرین. برشی از رصدخانه‌ای ماسه‌سنگی با نوارهای کاشی فیروزه‌ای. پرتو خورشید از روزنه‌ای کوچک بر بام وارد می‌شود و به کمانی مدرج در شیاری زیر زمین می‌رسد، با برچسب سدس فخری، شعاع حدود ۴۰ متر. کادری می‌گوید ۱۰۱۸ ستاره فهرست‌شده، حدود ۷۰۰ ستارهٔ تازه رصدشده. خط زمانی: ۱۴۱۷ مدرسه، ۱۴۲۰ رصدخانه، حدود ۱۴۳۷ فهرست ستارگان، ۱۴۴۹ پایان شاه، سدهٔ ۱۶ زیر خاک، ۱۹۰۸ بازیابی. نواری از سمرقند حدود ۱۴۳۷ تا آکسفورد ۱۶۶۵، حدود ۵۳۰۰ کیلومتر، جایی که هاید فهرست فارسی را چاپ کرد. نوار پایین: ۱۰۱۸ ستاره."
+  },
+  "posts": {
+   "en": [
+    "The Fakhri sextant of Samarkand was an arc of about 40 m radius sunk in a trench half a metre wide. Sunlight entering a small opening above cast the sun's image on its graduated scale.",
+    "Ulugh Beg's Persian star catalogue lists 1,018 stars. About 700 positions rest on his own team's observations; the rest derive from Ptolemy in one or both coordinates.",
+    "The observatory was later destroyed and buried. In 1908 the archaeologist V. L. Vyatkin recovered the underground part of the sextant. Hyde's Oxford edition of the catalogue had already appeared in 1665."
+   ],
+   "fa": [
+    "سدس فخری سمرقند کمانی به شعاع حدود ۴۰ متر بود که در شیاری به پهنای نیم متر فرو رفته بود. نوری که از روزنه‌ای کوچک در بالا می‌تابید، تصویر خورشید را بر مقیاس مدرج آن می‌انداخت.",
+    "فهرست فارسی ستارگان الغ‌بیگ ۱۰۱۸ ستاره دارد. حدود ۷۰۰ موقعیت بر رصدهای تیم خود او استوار است و بقیه، در یک یا دو مختصات، از بطلمیوس گرفته شده است.",
+    "رصدخانه بعدها ویران و زیر خاک پنهان شد. در ۱۹۰۸ باستان‌شناس و. ل. ویاتکین بخش زیرزمینی سدس را بازیافت. چاپ آکسفورد این فهرست از ۱۶۶۵ منتشر شده بود."
+   ]
+  },
+  "images": {
+   "en": [
+    "en-1"
+   ],
+   "fa": [
+    "fa-1"
+   ]
+  }
+ },
+ {
   "id": "ph-w2-3",
   "series": "pahlavi",
   "date": "2026-10-28",
