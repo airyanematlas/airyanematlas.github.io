@@ -30,6 +30,10 @@ S = {
   'sec_pahlavi': 'Pahlavi Era', 'sec_pahlavi_d': 'A dedicated collection on the Pahlavi era, updated regularly.',
   'sec_topics': 'Browse by topic', 'see_all': 'See all', 'coming': 'The Pahlavi Era collection is being prepared. New infographics will appear here.',
   'empty': 'Nothing here yet.', 'fact_a': 'Deep fact', 'fact_b': 'Fun fact', 'source': 'Source', 'by': 'by',
+ 'course': 'Course', 'course_h': 'Indo-European Course', 'course_d': 'Five illustrated slide modules on the origins of the Indo-European languages, ancient DNA, archaeology, the comparative method and the Indo-Iranians. Read online, free.',
+  'mod': 'Module', 'slides': 'slides', 'open_mod': 'Open module', 'read_on': 'Read online', 'dl_pdf': 'Download PDF', 'pptx_pat': 'Editable PowerPoint on Patreon', 'contents': 'All slides', 'parts_h': 'Parts', 'prev_s': 'Previous', 'next_s': 'Next', 'fullscr': 'Full screen', 'all_mods': 'All modules',
+  'course_who': ['Built as study and reference material for history students and enthusiasts.', 'Every slide carries its sources; evidence is graded A (checked in a supplied paper), B (standard background) or C (interpretation or debate).', 'Use the arrow keys, swipe, or click the right and left side of a slide to move through it.'],
+  'course_note_h': 'Good to know', 'course_note': 'The slides are written in English. Editable PowerPoint versions are available to Patreon supporters.',
   'about_title': 'About Airyanem Atlas', 'contact': 'Contact', 'rss': 'RSS feed', 'rights': 'All rights reserved.',
   'lang_switch': 'فارسی', 'lang_switch_title': 'Switch to Farsi', 'skip': 'Skip to content', 'menu': 'Menu',
   'about_p': ['Airyanem Atlas is a visual atlas of Indo-European and Iranian history, language and maps: one infographic a day, from the steppe to Persepolis and beyond.',
@@ -56,6 +60,10 @@ S = {
   'sec_pahlavi': 'دورهٔ پهلوی', 'sec_pahlavi_d': 'مجموعه‌ای ویژه دربارهٔ دورهٔ پهلوی که پیوسته به‌روز می‌شود.',
   'sec_topics': 'گشت‌وگذار بر پایهٔ موضوع', 'see_all': 'دیدن همه', 'coming': 'مجموعهٔ دورهٔ پهلوی در دست آماده‌سازی است. اینفوگرافیک‌های تازه همین‌جا خواهند آمد.',
   'empty': 'هنوز چیزی اینجا نیست.', 'fact_a': 'نکتهٔ ژرف', 'fact_b': 'نکتهٔ جالب', 'source': 'منبع', 'by': 'از',
+ 'course': 'دوره', 'course_h': 'دورهٔ هندواروپایی', 'course_d': 'پنج بخش اسلایدی مصور دربارهٔ خاستگاه زبان‌های هندواروپایی، دی‌ان‌ای باستانی، باستان‌شناسی، روش تطبیقی و هندوایرانیان. رایگان و آنلاین.',
+  'mod': 'بخش', 'slides': 'اسلاید', 'open_mod': 'باز کردن بخش', 'read_on': 'خواندن آنلاین', 'dl_pdf': 'دریافت PDF', 'pptx_pat': 'پاورپوینت ویرایش‌پذیر در پاترئون', 'contents': 'همهٔ اسلایدها', 'parts_h': 'بخش‌ها', 'prev_s': 'قبلی', 'next_s': 'بعدی', 'fullscr': 'تمام‌صفحه', 'all_mods': 'همهٔ بخش‌ها',
+  'course_who': ['ساخته‌شده به‌عنوان مواد آموزشی و مرجع برای دانشجویان و دوستداران تاریخ.', 'روی هر اسلاید منبعش آمده است و شواهد درجه‌بندی شده‌اند: A (بررسی‌شده در مقالهٔ در دسترس)، B (پیشینهٔ استاندارد) یا C (تفسیر یا محل بحث).', 'محتوای اسلایدها انگلیسی است؛ فهرست و راهنما در این صفحه فارسی است.'],
+  'course_note_h': 'نکته', 'course_note': 'اسلایدها به زبان انگلیسی نوشته شده‌اند. نسخهٔ پاورپوینت ویرایش‌پذیر برای حامیان پاترئون در دسترس است.',
   'about_title': 'دربارهٔ اطلس آیریانم', 'contact': 'تماس', 'rss': 'خوراک آر‌اس‌اس', 'rights': 'همهٔ حقوق محفوظ است.',
   'lang_switch': 'English', 'lang_switch_title': 'Switch to English', 'skip': 'پرش به محتوا', 'menu': 'فهرست',
   'about_p': ['اطلس آیریانم اطلسی تصویری از تاریخ، زبان و نقشهٔ هندواروپایی و ایرانی است: هر روز یک اینفوگرافیک، از استپ تا تخت جمشید و فراتر.',
@@ -76,7 +84,7 @@ NOTE_TOPICS = {'achaemenid': ('Achaemenid Persia', 'ایران هخامنشی'),
 TOPICS = {
  'language': ('Language', 'زبان'), 'empire': ('Empires & Kings', 'امپراتوری‌ها و شاهان'), 'archaeology': ('Archaeology', 'باستان‌شناسی'),
  'culture': ('Culture & Myth', 'فرهنگ و اسطوره'), 'maps': ('Maps', 'نقشه‌ها'), 'heritage': ('Heritage', 'میراث'),
- 'history': ('History', 'تاریخ'), 'news': ('News', 'اخبار'),
+ 'history': ('History', 'تاریخ'), 'news': ('News', 'اخبار'), 'science': ('Science & Technology', 'دانش و فناوری'),
  'economy': ('Economy', 'اقتصاد'), 'society': ('Society', 'جامعه'), 'military': ('Military', 'نیروهای مسلح'), 'politics': ('Politics & Diplomacy', 'سیاست و دیپلماسی'),
 }
 MONTHS_EN = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
@@ -146,6 +154,10 @@ def main():
     for p in pieces:
         src = D('img', p['id'])
         if os.path.isdir(src): shutil.copytree(src, os.path.join(OUT, 'img', p['id']))
+    course = [c for c in load_json('course.json', []) if c['date'] <= today]
+    for c in course:
+        src = D('course', c['id'])
+        if os.path.isdir(src): shutil.copytree(src, os.path.join(OUT, 'course', c['id']))
     open(os.path.join(OUT, '.nojekyll'), 'w').close()
 
     def url(lang, path):  # path like '' / 'archive/' / 'p/id/'
@@ -167,16 +179,16 @@ def main():
         open(fp, 'w', encoding='utf8').write(content)
 
     # ---------------------------------------------------------- layout
-    def layout(lang, path, title, body, desc='', og='/assets/og-default.jpg', page_class='', extra_head=''):
-        t = S[lang]; o = other(lang)
+    def layout(lang, path, title, body, desc='', og='/assets/og-default.jpg', page_class='', extra_head='', alt_path=None):
+        t = S[lang]; o = other(lang); apath = path if alt_path is None else alt_path
         full_title = title if title == t['name'] else f"{title} · {t['name']}"
         desc = desc or t['tag']
-        nav = [('', t['home']), ('archive/', t['archive']), ('specials/', t['specials']), ('evening/', t['evening']), ('notes/', t['notes']), ('pahlavi/', t['pahlavi']), ('about/', t['about'])]
-        navh = ''.join(f'<a href="{url(lang, h)}"{" aria-current=page" if h == path.split("#")[0] and h != "" or (h == "" and path == "") else ""}>{E(l)}</a>' for h, l in nav)
+        nav = [('', t['home']), ('archive/', t['archive']), ('specials/', t['specials']), ('evening/', t['evening']), ('notes/', t['notes']), ('pahlavi/', t['pahlavi']), ('course/', t['course']), ('about/', t['about'])]
+        navh = ''.join(f'<a href="{url(lang, h)}"{" aria-current=page" if (h == path.split("#")[0] and h != "") or (h == "" and path == "") or (h == "course/" and path.startswith("course/")) else ""}>{E(l)}</a>' for h, l in nav)
         soc = ''
         for k, lbl in (('x', 'X'), ('instagram', 'Instagram'), ('patreon', 'Patreon')):
             if social.get(k): soc += f'<a href="{E(social[k])}" rel="me noopener" target="_blank">{lbl}</a>'
-        link_alt = f'<link rel="alternate" hreflang="{o}" href="{SITE}{url(o, path)}"><link rel="alternate" hreflang="{lang}" href="{SITE}{url(lang, path)}">'
+        link_alt = f'<link rel="alternate" hreflang="{o}" href="{SITE}{url(o, apath)}"><link rel="alternate" hreflang="{lang}" href="{SITE}{url(lang, path)}">'
         return f'''<!doctype html>
 <html lang="{lang}" dir="{t['dir']}">
 <head>
@@ -200,7 +212,7 @@ def main():
 <header class="top"><div class="wrap bar">
  <a class="brand" href="{url(lang, '')}"><img src="/assets/logo.svg" alt="" width="52" height="27"><span>{E(t['name'])}</span></a>
  <nav class="nav" id="nav" aria-label="Main">{navh}</nav>
- <div class="tools"><a class="lang" href="{url(o, path)}" hreflang="{o}" lang="{o}" title="{E(t['lang_switch_title'])}">{E(t['lang_switch'])}</a>
+ <div class="tools"><a class="lang" href="{url(o, apath)}" hreflang="{o}" lang="{o}" title="{E(t['lang_switch_title'])}">{E(t['lang_switch'])}</a>
  <button class="burger" aria-label="{E(t['menu'])}" aria-controls="nav" aria-expanded="false"><span></span><span></span></button></div>
 </div></header>
 <main id="main">{body}</main>
@@ -346,6 +358,38 @@ def main():
             xh = f'<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>'
             write(url(lang, 'p/' + p['id'] + '/').lstrip('/') + 'index.html', layout(lang, 'p/' + p['id'] + '/', p['title'][lang], body, re.sub(r'#\S+', '', cap).strip(), og=imgurl(p, stems[0], '-og'), page_class='piecepage', extra_head=xh))
 
+        # ---- course
+        if course:
+            pat = social.get('patreon', '')
+            pad = lambda i: f'{i:02d}'
+            nfmt = (lambda x: fa_digits(x)) if lang == 'fa' else (lambda x: str(x))
+            total = sum(c['n'] for c in course)
+            cards = ''
+            for c in course:
+                cards += f'<a class="mcard" style="--ac:{c["accent"]}" href="/course/{c["id"]}/"><div class="thumb"><img src="/course/{c["id"]}/cover.webp" alt="{E(c["title"])}" width="960" height="540" loading="lazy"></div><div class="cb"><div class="mnum">{E(t["mod"])} {nfmt(c["num"])}</div><h3 dir="ltr" lang="en">{E(c["title"])}</h3><p dir="ltr" lang="en">{E(c["desc"])}</p><div class="meta"><span class="chip">{nfmt(c["n"])} {E(t["slides"])}</span><span class="chip">PDF</span></div></div></a>'
+            who = ''.join(f'<li>{E(x)}</li>' for x in t['course_who'])
+            intro = f'<div class="cintro"><div><ul>{who}</ul></div><div class="cnote"><b>{E(t["course_note_h"])}</b>{E(t["course_note"])}</div></div>'
+            body = head(lang, t['course_h'], t['course_d']) + f'<section class="block"><div class="wrap">{intro}</div></section><section class="block alt"><div class="wrap"><div class="cgrid">{cards}</div></div></section>'
+            write(url(lang, 'course/').lstrip('/') + 'index.html', layout(lang, 'course/', t['course_h'], body, t['course_d'], og=f'/course/{course[0]["id"]}/cover.webp', page_class='coursepage', extra_head='<link rel="stylesheet" href="/assets/course.css">'))
+            if lang == 'en':
+                for ci, c in enumerate(course):
+                    base = f'/course/{c["id"]}/'
+                    pdf = f'{base}{c["stem"]}.pdf'
+                    parts = ''.join(f'<a href="#{pi}" data-go="{pi}">{E(pt)}</a>' for pi, pt in c['parts'])
+                    tg = ''.join(f'<button class="tg" type="button" aria-label="Slide {i+1}: {E(tt)}"><img src="{base}t/{pad(i+1)}.webp" alt="" width="320" height="180" loading="lazy"><span>{i+1}. {E(tt)}</span></button>' for i, tt in enumerate(c['titles']))
+                    pb = f'<a class="btn pat" href="{E(pat)}" rel="noopener" target="_blank">{E(t["pptx_pat"])}</a>' if pat else ''
+                    prv = course[ci-1] if ci > 0 else None; nx = course[ci+1] if ci+1 < len(course) else None
+                    mn = '<div class="mnav">' + (f'<a href="/course/{prv["id"]}/"><small>{E(t["prev"])}</small>{E(t["mod"])} {prv["num"]}: {E(prv["title"])}</a>' if prv else '<span></span>') + (f'<a class="r" href="/course/{nx["id"]}/"><small>{E(t["next"])}</small>{E(t["mod"])} {nx["num"]}: {E(nx["title"])}</a>' if nx else '<span></span>') + '</div>'
+                    body = f"""<section class="mhero"><div class="wrap"><div><div class="kicker">{E(t["mod"])} {c["num"]} / {len(course)} · {c["n"]} {E(t["slides"])}</div><h1>{E(c["title"])}</h1><p>{E(c["desc"])}</p><div class="mbtns"><a class="btn ac" href="#viewer">{E(t["read_on"])}</a><a class="btn primary" href="{pdf}" download>{E(t["dl_pdf"])}</a>{pb}</div></div><div class="cov"><img src="{base}cover.webp" alt="{E(c["title"])}, cover" width="960" height="540"></div></div></section>
+<section class="block"><div class="wrap"><div class="crumb"><a href="/">{E(t["home"])}</a> / <a href="/course/">{E(t["course_h"])}</a></div>
+<div class="parts" aria-label="{E(t["parts_h"])}">{parts}</div>
+<div class="viewer" id="viewer" data-base="{base}" data-n="{c["n"]}" data-name="{E(t["mod"])} {c["num"]}" data-titles="{E(json.dumps(c["titles"], ensure_ascii=False))}">
+<div class="vstage" id="vstage"><img id="vimg" src="{base}s/01.webp" alt="" width="1440" height="810"></div>
+<div class="vbar"><button class="vbtn" id="vprev" type="button">← {E(t["prev_s"])}</button><div class="vt" id="vt"></div><span class="vc" id="vc"></span><button class="vbtn" id="vfull" type="button">{E(t["fullscr"])}</button><button class="vbtn ac" id="vnext" type="button">{E(t["next_s"])} →</button></div></div>
+<h2 style="margin-top:34px">{E(t["contents"])}</h2><div class="tgrid">{tg}</div>{mn}</div></section>"""
+                    ldc = {'@context': 'https://schema.org', '@type': 'Course', 'name': c['title'], 'description': c['desc'], 'provider': {'@type': 'Organization', 'name': t['name'], 'sameAs': SITE}, 'inLanguage': 'en', 'isAccessibleForFree': True}
+                    write(f'course/{c["id"]}/index.html', layout('en', f'course/{c["id"]}/', f'{t["mod"]} {c["num"]}: {c["title"]}', body, c['desc'], og=f'{base}cover.webp', page_class='coursepage', extra_head='<link rel="stylesheet" href="/assets/course.css"><script src="/assets/course.js" defer></script><script type="application/ld+json">' + json.dumps(ldc, ensure_ascii=False) + '</script>', alt_path='course/'))
+
         # ---- RSS
         items = ''
         for p in pieces[:40]:
@@ -356,7 +400,7 @@ def main():
     # ---------------------------------------------------------- sitemap, robots, 404
     urls = []
     for lang in ('en', 'fa'):
-        for pth in ['', 'archive/', 'specials/', 'evening/', 'notes/', 'pahlavi/', 'about/'] + [f"p/{p['id']}/" for p in pieces]:
+        for pth in ['', 'archive/', 'specials/', 'evening/', 'notes/', 'pahlavi/', 'about/'] + ['course/'] + [f"p/{p['id']}/" for p in pieces] + ([f"course/{c['id']}/" for c in course] if lang == 'en' else []):
             urls.append(SITE + url(lang, pth))
     write('sitemap.xml', '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + ''.join(f'<url><loc>{u}</loc></url>' for u in urls) + '</urlset>')
     write('robots.txt', f'User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n')
