@@ -1,9 +1,10 @@
 name: Build and deploy site
 on:
-  # Weekly publishing (directive 24 Oct 2026): the site is rebuilt only on Sunday afternoon
-  # (and by manual dispatch). Pushes to main no longer deploy; new items wait for Sunday.
+  # Daily publishing (directive 2 Nov 2026): content is uploaded once a week with each item's own
+  # date; the site rebuilds every morning and publishes items dated today or earlier (Pacific).
+  # Pushes to main do not deploy; manual dispatch is available.
   schedule:
-    - cron: '10 23 * * 0'   # Sundays 23:10 UTC (4:10 pm PDT / 3:10 pm PST)
+    - cron: '10 14 * * *'   # daily 14:10 UTC (6:10 am PST / 7:10 am PDT)
   workflow_dispatch:
 permissions:
   contents: read
