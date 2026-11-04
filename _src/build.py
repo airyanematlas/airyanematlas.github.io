@@ -30,7 +30,7 @@ S = {
   'sec_pahlavi': 'Pahlavi Era', 'sec_pahlavi_d': 'A dedicated collection on the Pahlavi era, updated regularly.',
   'sec_topics': 'Browse by topic', 'see_all': 'See all', 'coming': 'The Pahlavi Era collection is being prepared. New infographics will appear here.',
   'empty': 'Nothing here yet.', 'fact_a': 'Deep fact', 'fact_b': 'Fun fact', 'source': 'Source', 'by': 'by',
- 'course': 'Course', 'course_h': 'Indo-European Course', 'course_d': 'Five illustrated slide modules on the origins of the Indo-European languages, ancient DNA, archaeology, the comparative method and the Indo-Iranians. Read online, free.',
+ 'course': 'Course', 'course_h': 'Indo-European Course', 'course_d': 'Six illustrated slide modules on the origins of the Indo-European languages, ancient DNA, archaeology, the comparative method, the Indo-Iranians, and religion and myth. Read online, free.',
   'mod': 'Module', 'slides': 'slides', 'open_mod': 'Open module', 'read_on': 'Read online', 'dl_pdf': 'Download PDF', 'pptx_pat': 'Editable PowerPoint on Patreon', 'contents': 'All slides', 'parts_h': 'Parts', 'prev_s': 'Previous', 'next_s': 'Next', 'fullscr': 'Full screen', 'all_mods': 'All modules',
   'course_who': ['Built as study and reference material for history students and enthusiasts.', 'Every slide carries its sources; evidence is graded A (checked in a supplied paper), B (standard background) or C (interpretation or debate).', 'Use the arrow keys, swipe, or click the right and left side of a slide to move through it.'],
   'course_note_h': 'Good to know', 'course_note': 'The slides are written in English. Editable PowerPoint versions are available to Patreon supporters.',
@@ -60,7 +60,7 @@ S = {
   'sec_pahlavi': 'دورهٔ پهلوی', 'sec_pahlavi_d': 'مجموعه‌ای ویژه دربارهٔ دورهٔ پهلوی که پیوسته به‌روز می‌شود.',
   'sec_topics': 'گشت‌وگذار بر پایهٔ موضوع', 'see_all': 'دیدن همه', 'coming': 'مجموعهٔ دورهٔ پهلوی در دست آماده‌سازی است. اینفوگرافیک‌های تازه همین‌جا خواهند آمد.',
   'empty': 'هنوز چیزی اینجا نیست.', 'fact_a': 'نکتهٔ ژرف', 'fact_b': 'نکتهٔ جالب', 'source': 'منبع', 'by': 'از',
- 'course': 'دوره', 'course_h': 'دورهٔ هندواروپایی', 'course_d': 'پنج بخش اسلایدی مصور دربارهٔ خاستگاه زبان‌های هندواروپایی، دی‌ان‌ای باستانی، باستان‌شناسی، روش تطبیقی و هندوایرانیان. رایگان و آنلاین.',
+ 'course': 'دوره', 'course_h': 'دورهٔ هندواروپایی', 'course_d': 'شش بخش اسلایدی مصور دربارهٔ خاستگاه زبان‌های هندواروپایی، دی‌ان‌ای باستانی، باستان‌شناسی، روش تطبیقی، هندوایرانیان، و دین و اسطوره. رایگان و آنلاین.',
   'mod': 'بخش', 'slides': 'اسلاید', 'open_mod': 'باز کردن بخش', 'read_on': 'خواندن آنلاین', 'dl_pdf': 'دریافت PDF', 'pptx_pat': 'پاورپوینت ویرایش‌پذیر در پاترئون', 'contents': 'همهٔ اسلایدها', 'parts_h': 'بخش‌ها', 'prev_s': 'قبلی', 'next_s': 'بعدی', 'fullscr': 'تمام‌صفحه', 'all_mods': 'همهٔ بخش‌ها',
   'course_who': ['ساخته‌شده به‌عنوان مواد آموزشی و مرجع برای دانشجویان و دوستداران تاریخ.', 'روی هر اسلاید منبعش آمده است و شواهد درجه‌بندی شده‌اند: A (بررسی‌شده در مقالهٔ در دسترس)، B (پیشینهٔ استاندارد) یا C (تفسیر یا محل بحث).', 'محتوای اسلایدها انگلیسی است؛ فهرست و راهنما در این صفحه فارسی است.'],
   'course_note_h': 'نکته', 'course_note': 'اسلایدها به زبان انگلیسی نوشته شده‌اند. نسخهٔ پاورپوینت ویرایش‌پذیر برای حامیان پاترئون در دسترس است.',
@@ -85,7 +85,7 @@ TOPICS = {
  'language': ('Language', 'زبان'), 'empire': ('Empires & Kings', 'امپراتوری‌ها و شاهان'), 'archaeology': ('Archaeology', 'باستان‌شناسی'),
  'culture': ('Culture & Myth', 'فرهنگ و اسطوره'), 'maps': ('Maps', 'نقشه‌ها'), 'heritage': ('Heritage', 'میراث'),
  'history': ('History', 'تاریخ'), 'news': ('News', 'اخبار'), 'science': ('Science & Technology', 'دانش و فناوری'),
- 'economy': ('Economy', 'اقتصاد'), 'society': ('Society', 'جامعه'), 'military': ('Military', 'نیروهای مسلح'), 'politics': ('Politics & Diplomacy', 'سیاست و دیپلماسی'),
+ 'economy': ('Economy', 'اقتصاد'), 'society': ('Society', 'جامعه'), 'military': ('Military', 'نیروهای مسلح'), 'politics': ('Politics & Diplomacy', 'سیاست و دیپلماسی'), 'genetics': ('Genetics', 'ژنتیک'), 'sasanian': ('Sasanian Persia', 'ایران ساسانی'), 'persian-gulf': ('Persian Gulf', 'خلیج فارس'), 'steppe': ('The Steppe', 'استپ'),
 }
 MONTHS_EN = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
 MONTHS_FA = ['فروردین','اردیبهشت','خرداد','تیر','مرداد','شهریور','مهر','آبان','آذر','دی','بهمن','اسفند']
