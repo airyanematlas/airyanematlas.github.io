@@ -2334,6 +2334,40 @@
   }
  },
  {
+  "id": "d19-one-valley-63000-years-khorramabad-caves",
+  "series": "special",
+  "date": "2026-11-07",
+  "topics": [
+   "archaeology",
+   "heritage",
+   "maps"
+  ],
+  "title": {
+   "en": "One Valley, 63,000 Years: The Khorramabad Caves",
+   "fa": "یک دره، ۶۳٬۰۰۰ سال: غارهای خرم‌آباد"
+  },
+  "caption": {
+   "en": "",
+   "fa": ""
+  },
+  "alt": {
+   "en": "",
+   "fa": ""
+  },
+  "posts": {
+   "en": [],
+   "fa": []
+  },
+  "images": {
+   "en": [
+    "en-1"
+   ],
+   "fa": [
+    "fa-1"
+   ]
+  }
+ },
+ {
   "id": "w4-6",
   "series": "w4",
   "date": "2026-11-07",
